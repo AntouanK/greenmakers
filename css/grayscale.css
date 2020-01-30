@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Grayscale v5.0.9 (https://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2019 Start Bootstrap
+ * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
 
@@ -267,7 +267,7 @@
 }
 
 body {
-  font-family: 'Nunito';
+  font-family: "Nunito";
   letter-spacing: 0.0625em;
 }
 
@@ -294,4 +294,14 @@ a:focus, a:hover {
 
 footer {
   padding: 5rem 0;
+}
+
+.price-text {
+  margin: 20px 0;
+  color: #446e3c;
+}
+
+.price-text-white {
+  margin: 20px 0;
+  color: #b3ec98;
 }
