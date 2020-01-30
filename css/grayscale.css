@@ -354,3 +354,8 @@ footer {
 .img-stretch {
   width: 100%;
 }
+
+.how-to-use-step {
+  padding: 50px !important;
+  text-align: center;
+}
