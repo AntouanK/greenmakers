@@ -5,6 +5,7 @@
 @import "buttons.scss";
 @import "about.scss";
 @import "projects.scss";
+@import "plants.scss";
 @import "signup.scss";
 @import "contact.scss";
 
@@ -46,4 +47,8 @@ footer {
 .price-text-white {
   margin: 20px 0;
   color: #b3ec98;
+}
+
+.img-stretch {
+  width: 100%;
 }
